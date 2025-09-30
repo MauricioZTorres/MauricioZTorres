@@ -14,7 +14,7 @@ I am an Computer Science and a development and data analyst intern. I am interes
 - Backend: REST APIs, relational databases, deployment pipelines.
 - Tools and technologies: Docker, Kubernetes, App Config, App Insights, Git.
 
-🎯 My goal is to keep learning and specialize in areas like backend development with .NET and mobile app development, maintaining a focus on best practices and scalable solutions.
+🎯 My goal is to keep learning and specialize in areas like IA development and backend development with .NET, maintaining a focus on best practices and scalable solutions.
 
 
 
